@@ -1,0 +1,21 @@
+,Module,Cost,Value
+1,Basic Concepts,2.333333333,4
+2,Binary Systems,2,2.4375
+3,Boolean Algebra and Logic Gates,4.444444444,6
+4,Combinational Circuits,3.555555556,3.25
+5,Sequential Circuits,3.555555556,3.25
+6,Data Types and Data Structures,6.222222222,8
+7,Error Detection and Correction,4.444444444,5
+8,CPU Architecture,4.444444444,6
+9,Processor Design,7.777777778,9.5
+10,Control Unit Design,7.777777778,6.5
+11,Memory Hierarchy,6.666666667,8.3125
+12,Types of Memory,10,10
+13,I/O Fundamentals,4.444444444,6
+14,Peripheral Devices,4.444444444,4.0625
+15,Parallel Processing,5.555555556,6
+16,Performance Enhancement,5.555555556,5
+17,Assembly Language Programming,4.444444444,6
+18,Simulators and Tools,2.666666667,2.4375
+19,Historical Architectures,0.666666667,0.8125
+20,Modern Architectures,0.666666667,0.625
