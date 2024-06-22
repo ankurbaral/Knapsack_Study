@@ -1,0 +1,22 @@
+Module,Hours,Weight (%),Marks,Complexity,Exam Frequency,Toughness
+Course Overview,1.5,1.60%,2,Easy,1,2
+Basic Concepts,3.5,3.90%,4,Easy,2,2
+Binary Systems,3,3.30%,3,Easy,1,2
+Boolean Algebra and Logic Gates,5,5.50%,6,Medium,2,6
+Combinational Circuits,4,4.40%,4,Medium,1,6
+Sequential Circuits,4,4.40%,4,Medium,1,6
+Data Types and Data Structures,7,7.70%,8,Medium,2,6
+Error Detection and Correction,5,5.50%,5,Medium,2,6
+CPU Architecture,5,5.50%,6,Medium,2,6
+Processor Design,7,7.70%,8,Difficult,3,10
+Control Unit Design,7,7.70%,8,Difficult,1,10
+Memory Hierarchy,6,6.60%,7,Difficult,3,10
+Types of Memory,9,9.90%,10,Difficult,2,10
+I/O Fundamentals,5,5.50%,6,Medium,2,6
+Peripheral Devices,5,5.50%,5,Medium,1,6
+Parallel Processing,5,5.50%,6,Difficult,2,10
+Performance Enhancement,5,5.50%,5,Difficult,2,10
+Assembly Language Programming,5,5.50%,6,Medium,2,6
+Simulators and Tools,3,3.30%,3,Medium,1,6
+Historical Architectures,1,1.10%,1,Easy,1,2
+Modern Architectures,1,1.10%,1,Easy,0,2
